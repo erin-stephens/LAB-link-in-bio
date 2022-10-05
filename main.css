@@ -1,3 +1,22 @@
 body {
-  background-color: blanchedalmond;
+  background-color: olivedrab;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.me {
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+  margin:15px;
+}
+.twitter, .insta, .linked {
+  width: 25px;
+  height: 25px;
+  margin: 10px;
+  border-radius: 25px;
+}
+.intro, .icons {
+  text-align: center;
+}
+.name {
+  font-size: 30px;
 }
